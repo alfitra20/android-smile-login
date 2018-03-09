@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smile Login</string>
+    <string name="home_login_text">Login to continue</string>
+    <string name="home_login_button">Begin Face Login</string>
+    <string name="main_login_success_text">Hi, You are successfully logged in!</string>
+    <string name="main_logout_button">Logout</string>
+</resources>
